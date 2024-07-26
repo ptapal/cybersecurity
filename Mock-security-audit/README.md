@@ -19,8 +19,8 @@ The audit aimed to evaluate the security controls and risk posture of the target
 
 ##Provided reports
 Two reports were provided:
-- **Botium-Toys-Scope-goals-and-risk-assessment-report**
-- **Control-categories**
+- **Botium Toys Scope goals and risk assessment report**
+- **Control categories**
 
 These reports served as the basis for the audit and compliance evaluation.
 
