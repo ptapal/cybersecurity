@@ -39,9 +39,9 @@ Key findings and recommendations from the audit include:
 - To address data confidentiality issues, it is recommended to implement Least privilege, disaster recovery plans, password policies, separation of duties, IDS, password management system, encryption and legacy system management. Regarding gaps in compliance, it is advised to establish a Least privilege, separation of duties and encryption. It is also required that Botium Toys classifies assets to identify additional controls to be implemented.
 
 ## Files and Structure
--`Botium-Toys-Scope-goals-and-risk-assessment-report.docx`: Provided report on scopes and goals of the audit and risk assessment
--`Control-categories.docx`: Provided report on control categories and control types.
--`Controls-and-compliance-checklist.docx`: Completed control assessment checklist, PCI DSS, GDPR, SOC Type 1 and Type 2 compliance checklists. Document also contains detailed recommendations.
+- `Botium-Toys-Scope-goals-and-risk-assessment-report.docx`: Provided report on scopes and goals of the audit and risk assessment
+- `Control-categories.docx`: Provided report on control categories and control types.
+- `Controls-and-compliance-checklist.docx`: Completed control assessment checklist, PCI DSS, GDPR, SOC Type 1 and Type 2 compliance checklists. Document also contains detailed recommendations.
 
 ## Usage Instructions
 To navigate the repository, review the files listed above. Each file correcponds to a specific part of the audit and compliance process.
